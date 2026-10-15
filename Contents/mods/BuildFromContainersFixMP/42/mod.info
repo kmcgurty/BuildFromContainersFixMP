@@ -1,4 +1,5 @@
 name=Bug Fix: Build From Containers [B42, Multiplayer]
 id=BuildFromContainersFixMP
 description=Bug fix
-poster=poster.png
+poster=preview.png
+icon=preview.png
