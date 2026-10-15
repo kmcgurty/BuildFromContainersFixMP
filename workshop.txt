@@ -1,6 +1,10 @@
 version=1
 id=3810508393
 title=Bug Fix: Build From Containers [B42, Multiplayer]
+description=In singleplayer, you're able to build something far away using containers. In B42 multiplayer, this is broken and requires you to have the items next you.
 description=
+description=This mod fixes the multiplayer bug, making it work like singleplayer. You can now build using items from crates, vehicle inventories, or the floor.
+description=
+description=Source code: https://github.com/kmcgurty/BuildFromContainersFixMP
 tags=Build 42;Misc;QoL
 visibility=public

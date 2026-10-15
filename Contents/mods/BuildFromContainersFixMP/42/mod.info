@@ -1,5 +1,5 @@
 name=Bug Fix: Build From Containers [B42, Multiplayer]
 id=BuildFromContainersFixMP
-description=Bug fix
+description=In multiplayer, enables building from far away using containers (crates, vehicles, floor).
 poster=preview.png
 icon=preview.png
