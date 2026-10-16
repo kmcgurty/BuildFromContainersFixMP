@@ -49,6 +49,9 @@ function ISBuildAction:new(character, item, x, y, z, north, spriteName, time, co
 	item.logic = false
 	item.startSquare = getPlayer():getSquare()
 
+	-- Neat Building compatibility
+	item._NBPrebuildValidation = nil
+
 	return BuildFromContainersFixMP.ISBuildAction_new(
 		self, character, item, x, y, z, north, spriteName, time, containers
 	)
